@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/blog/gulpfile.js",
+        "C:/xampp/htdocs/blog/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/respond.min.js",
+        "C:/xampp/htdocs/blog/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/nv.d3.min.js",
+        "C:/xampp/htdocs/blog/public/js/main.js"
+    ]
+}
